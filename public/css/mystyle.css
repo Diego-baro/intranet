@@ -1,0 +1,6 @@
+
+body {
+  background-color: #3490DC;
+}
+.bg-login-image{background:url(https://source.unsplash.com/K4mSJ7kc0As/500x500)};
+.form-control-user{font-size:.8rem;border-radius:10rem;padding:1.5rem 1rem};
